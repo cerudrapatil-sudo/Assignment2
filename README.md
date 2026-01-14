@@ -1,5 +1,5 @@
 # Assignment2
-# Assignment1 This is the assignment of python tutorial learn from tutedude official.
+# This is the assignment of python tutorial learn from tutedude official.
 
 
 ASSIGNMENT 2:
